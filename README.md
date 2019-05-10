@@ -7,3 +7,9 @@
 该套教程地址 ``https://www.dayuzy.com/?p=377``
 
 此项目做到了71讲``71-[REACT]-珠峰课堂-实现购物车流程``，后面的几讲没做。
+
+## 运行该项目
+
+ 1. npm install
+ 2. npm start 
+
